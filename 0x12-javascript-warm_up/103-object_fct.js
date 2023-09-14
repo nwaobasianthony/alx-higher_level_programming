@@ -1,4 +1,5 @@
 #!/usr/bin/node
+// A function
 
 const myObject = {
   type: 'object',
