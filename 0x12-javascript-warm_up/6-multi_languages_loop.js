@@ -1,4 +1,5 @@
 #!/usr/bin/node
+// A function
 
 const languages = ['C is fun', 'Python is cool', 'JavaScript is amazing'];
 

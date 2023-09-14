@@ -1,4 +1,5 @@
 #!/usr/bin/node
+// A function
 
 function factorial (num) {
   if (num > 0) {

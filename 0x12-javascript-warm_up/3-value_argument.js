@@ -1,4 +1,5 @@
 #!/usr/bin/node
+// A function
 
 if (!process.argv[2]) {
   console.log('No argument');

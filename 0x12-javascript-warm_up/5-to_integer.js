@@ -1,4 +1,5 @@
 #!/usr/bin/node
+// A function
 
 if (isNaN(process.argv[2])) {
   console.log('Not a number');
